@@ -1,0 +1,61 @@
+Week,Game,Home Win %,Visitor Win %,Home Market Index,Home Stars Index,Visitor Stars Index,Home AFP,Visitor AFP,Ticket Price,Middle Section Attendance
+1,Cincinnati @ Pittsburgh,0.5,0.5,2.2,6,5,200,200,20,10700
+1,New York @ Philadelphia,0.5,0.5,5.6,8,10,200,200,35,10100
+1,Boston @ Atlanta,0.5,0.5,4,6,8,200,200,27,13000
+1,Minneapolis @ San Francisco,0.5,0.5,6,9,6,200,200,25,14000
+1,Denver @ San Diego,0.5,0.5,2,5,7,200,200,20,11000
+1,Seattle @ Kansas City,0.5,0.5,1.6,4,6,200,200,22,8600
+2,Philadelphia @ Cincinnati,1,0,1.6,5,8,180,206,25,10560
+2,Atlanta @ New York,1,1,10,10,6,192,189,35,18150
+2,Pittsburgh @ Boston,0,0,4.6,8,6,220,173,10,14930
+2,San Diego @ Minneapolis,1,0,3.2,6,5,166,175,25,10430
+2,Kansas City @ Denver,1,0,2.8,7,4,211,180,12.49,17685
+2,San Francisco @ Seattle,1,0,3.2,6,9,164,208,20,15200
+3,Boston @ Cincinnati,1,1,1.6,5,8,175,215,15,18000
+3,Atlanta @ Philadelphia,0.5,0.5,5.6,8,6,187,191,20,15120
+3,Pittsburgh @ New York,0,0,10,10,6,187,163,30,10240
+3,Seattle @ Minneapolis,0,0,3.2,6,6,169,175,20,6020
+3,Kansas City @ San Diego,0.5,0.5,2,5,4,182,180,35,1260
+3,San Francisco @ Denver,1,1,2.8,7,9,197,210,25,16310
+4,Philadelphia @ Pittsburgh,0.33,0.67,2.2,6,8,181,193,10,15710
+4,Cincinnati @ Atlanta,0.33,1,4,6,5,194,179,26,9085
+4,New York @ Boston,0.67,0,4.6,8,10,206,183,25,14135
+4,San Diego @ San Francisco,0.67,0.67,6,9,5,199,187,20,17540
+4,Minneapolis @ Kansas City,0.33,0.33,1.6,4,6,184,176,25,4680
+4,Denver @ Seattle,0,1,3.2,6,7,174,208,25,7000
+5,Atlanta @ Pittsburgh,0.5,0.5,2.2,6,6,194,194,18,11960
+5,New York @ Cincinnati,0.75,0,1.6,5,10,183,189,25,9605
+5,Boston @ Philadelphia,0.5,0.75,5.6,8,8,187,211,36,8945
+5,Kansas City @ San Francisco,0.75,0.5,6,9,4,202,199,30,12425
+5,Denver @ Minneapolis,0.25,1,3.2,6,7,181,202,30,6525
+5,Seattle @ San Diego,0.5,0,2,5,6,175,172,36,220
+6,Cincinnati @ New York,0,0.8,10,10,5,185,182,36,8870
+6,Pittsburgh @ Atlanta,0.4,0.6,4,6,6,188,196,38,3100
+6,Philadelphia @ Boston,0.8,0.4,4.6,8,8,218,191,27,14550
+6,Minneapolis @ Denver,1,0.2,2.8,7,6,200,179,10,20000
+6,San Francisco @ Kansas City,0.6,0.6,1.6,4,9,201,202,33,5650
+6,San Diego @ Seattle,0.2,0.4,3.2,6,5,184,179,15,11010
+7,Pittsburgh @ Cincinnati,0.67,0.67,1.6,5,6,186,198,15,13860
+7,Philadelphia @ New York,0.17,0.5,10,10,8,195,193,35,11805
+7,Atlanta @ Boston,0.67,0.33,4.6,8,6,210,182,10,20000
+7,San Francisco @ Minneapolis,0.33,0.5,3.2,6,9,180,195,15,14275
+7,San Diego @ Denver,0.83,0.33,2.8,7,5,191,183,14,16410
+7,Kansas City @ Seattle,0.33,0.67,3.2,6,4,194,200,10,15170
+8,Cincinnati @ Philadelphia,0.43,0.71,5.6,8,5,189,192,4,20000
+8,Boston @ Pittsburgh,0.57,0.57,2.2,6,8,195,205,35,5300
+8,New York @ Atlanta,0.43,0.29,4,6,10,188,200,26,10590
+8,Minneapolis @ San Diego,0.43,0.43,2,5,6,189,180,25,6770
+8,Seattle @ San Francisco,0.43,0.43,6,9,6,192,191,30,10470
+8,Denver @ Kansas City,0.57,0.71,1.6,4,7,197,187,15,13430
+9,New York @ Pittsburgh,0.63,0.38,2.2,6,10,194,201,20,13705
+9,Philadelphia @ Atlanta,0.38,0.38,4,6,8,187,183,10,17240
+9,Cincinnati @ Boston,0.5,0.75,4.6,8,5,199,187,34,7565
+9,Denver @ San Francisco,0.38,0.75,6,9,7,192,189,25,13875
+9,San Diego @ Kansas City,0.5,0.5,1.6,4,5,196,193,10,13910
+9,Minneapolis @ Seattle,0.5,0.38,3.2,6,6,194,176,30,6480
+10,Atlanta @ Cincinnati,0.78,0.33,1.6,5,6,189,187,6,18315
+10,Pittsburgh @ Philadelphia,0.44,0.67,5.6,8,6,184,198,30,10075
+10,Boston @ New York,0.33,0.44,10,10,8,200,198,30,15555
+10,San Francisco @ San Diego,0.44,0.44,2,5,9,191,191,,
+10,Kansas City @ Minneapolis,0.44,0.56,3.2,6,4,178,196,26,7200
+10,Seattle @ Denver,0.67,0.44,2.8,7,6,187,194,20,12975
