@@ -5,10 +5,11 @@ from sklearn.model_selection import train_test_split
 import xgboost as xgb
 import joblib
 from sklearn.metrics import mean_squared_error
+import matplotlib.pyplot as plt
 
 base = pd.read_csv('base_data.csv')
 prices = np.arange(1, 501, step=1)
-prices = pd.DataFrame(prices, columns=['Ticket Price'])
+prices = pd.DataFrame(prices, columns=[' Ticket Price'])
 prices['key'] = 0
 df = base.merge(prices, on = 'key', how='outer')
 df = df.drop(columns=['key'])
@@ -50,4 +51,10 @@ def luxury_prices(data):
 
     return results
 
+lower_prices(data=df)
+pred = middle_prices(data=df)
+upper_prices(data=df)
 luxury_prices(data=df)
+
+pred['pred_pct'].hist()
+plt.show()
