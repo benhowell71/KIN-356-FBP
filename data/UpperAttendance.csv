@@ -1,0 +1,14 @@
+Upper Attendance Data
+Week, Game, Home Win %, Visitor Win %, Home Market Index, Home Stars Index, Visitor Stars Index, Home AFP, Visitor AFP, Ticket Price, Upper Section Attendance
+1,Boston @ San Diego,0.5,0.5,2,3,2,200,200,8.00,11400
+1,Pittsburgh @ Philadelphia,0.5,0.5,5.6,3,2,200,200,8.99,14532
+1,Denver @ San Francisco,0.5,0.5,6,2,3,200,200,9.00,15000
+1,Atlanta @ Minneapolis,0.5,0.5,3.2,1,2,200,200,8.00,11640
+1,Cincinnati @ New York,0.5,0.5,10,3,2,200,200,15.00,12600
+1,Kansas City @ Seattle,0.5,0.5,3.2,2,4,200,200,6.50,15240
+2,Minneapolis @ Kansas City,1,0,1.6,4,1,203,193,6.50,15744
+2,San Francisco @ Atlanta,1,1,4,2,2,202,250,8.00,19872
+2,New York @ Pittsburgh,1,0,2.2,2,3,208,189,8.00,14796
+2,Seattle @ Cincinnati,1,0,1.6,2,2,241,190,6.50,16476
+2,San Diego @ Denver,0,1,2.8,3,3,97,237,5.00,10296
+2,Philadelphia @ Boston,0,0,4.6,2,3,186,205,4.99,11688

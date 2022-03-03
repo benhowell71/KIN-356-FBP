@@ -1,0 +1,14 @@
+Luxury Attendance Data
+Week, Game, Home Win %, Visitor Win %, Home Market Index, Home Stars Index, Visitor Stars Index, Home AFP, Visitor AFP, Ticket Price, Luxury Section Attendance
+1,Boston @ San Diego,0.5,0.5,2,3,2,200,200,50.00,3375
+1,Pittsburgh @ Philadelphia,0.5,0.5,5.6,3,2,200,200,89.99,2955
+1,Denver @ San Francisco,0.5,0.5,6,2,3,200,200,90.00,3075
+1,Atlanta @ Minneapolis,0.5,0.5,3.2,1,2,200,200,55.00,3248
+1,Cincinnati @ New York,0.5,0.5,10,3,2,200,200,100.00,3900
+1,Kansas City @ Seattle,0.5,0.5,3.2,2,4,200,200,60.00,3510
+2,Minneapolis @ Kansas City,1,0,1.6,4,1,203,193,55.00,3824
+2,San Francisco @ Atlanta,1,1,4,2,2,202,250,55.00,5000
+2,New York @ Pittsburgh,1,0,2.2,2,3,208,189,75.00,3286
+2,Seattle @ Cincinnati,1,0,1.6,2,2,241,190,45.00,4382
+2,San Diego @ Denver,0,1,2.8,3,3,97,237,30.00,2949
+2,Philadelphia @ Boston,0,0,4.6,2,3,186,205,38.99,2957
